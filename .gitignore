@@ -42,6 +42,7 @@
 /*
 !/*.gitignore
 ##
+!/Documentation
 !*.qpf
 !*.qsf
 !*.qws
