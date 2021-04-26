@@ -42,7 +42,7 @@
 /*
 !/*.gitignore
 ##
-!SOCOE_Fan_Display/Documentation/
+!Documentation/*
 !*.qpf
 !*.qsf
 !*.qws
